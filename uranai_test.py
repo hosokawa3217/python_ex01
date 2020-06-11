@@ -1,6 +1,6 @@
 import ex01;
 
-@pytest.mark.parametrize('ans', [
+@mark.parametrize('ans', [
     "大吉です。最高♪♪♪",
     "中吉です。ラッキー♪",
     "小吉です。コツコツと…",
