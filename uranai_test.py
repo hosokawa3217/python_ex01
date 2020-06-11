@@ -1,4 +1,5 @@
-import ex01;
+import ex01
+import pytest
 
 @mark.parametrize('ans', [
     "大吉です。最高♪♪♪",
